@@ -300,7 +300,6 @@ html {
     background: linear-gradient(to left, rgba(30, 35, 38, .0), rgba(30, 35, 38, 1)), url(../img/joe-caione-qO-PIF84Vxg-unsplash.jpg); 
     background-size: cover;
     background-position:center;
-    background-attachment: fixed;
 }
 .conte_pro {
     width: 90%;
